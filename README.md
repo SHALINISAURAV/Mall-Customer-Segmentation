@@ -41,8 +41,7 @@ Segment customers of a mall based on their **spending behavior and income** to h
 | K-Means | Hierarchical | DBSCAN |
 |:--------:|:-------------:|:------:|
 | ![KMeans](plots/<img width="1718" height="1294" alt="kmeans_clusters" src="https://github.com/user-attachments/assets/80a68c4e-3cbb-4232-94a5-7cfb69f506db" />
- />
-.png) | ![Hierarchical](plots/<img width="1980" height="1499" alt="hierarchical_dendrogram" src="https://github.com/user-attachments/assets/6cb1e249-b28b-41f5-b832-4b46d6a78c59" />
+.png) | ![Hierarchical](plots/<img width="1980" height="1499" alt="hierarchical_dendrogram" src="https://github.com/user-attachments/assets/6cb1e249-b28b-41f5-b832-4b46d6a78c59" /
 .png) | ![DBSCAN](plots/dbscan_clusters.png) |
 
 ---
