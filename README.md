@@ -94,4 +94,4 @@ __pycache__/
 *.png
 .env
 
-![Banner](https://github.com/yourusername/mall-customer-segmentation/blob/main/plots/banner.png)
+![Banner](https://github.com/SHALINISAURAV/mall-customer-segmentation/blob/main/plots/banner.png)
