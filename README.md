@@ -86,12 +86,3 @@ Try Gaussian Mixture Models (GMM)
 📧 Email
  • 🌐 LinkedIn
  • 🐙 GitHub
-
-🧼 4️⃣ .gitignore
-__pycache__/
-.ipynb_checkpoints/
-*.csv
-*.png
-.env
-
-![Banner](https://github.com/SHALINISAURAV/mall-customer-segmentation/blob/main/plots/banner.png)
