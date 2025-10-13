@@ -38,10 +38,9 @@ Segment customers of a mall based on their **spending behavior and income** to h
 ---
 
 ## 🖼️ Visualizations
-| **K-Means Clustering** | **Hierarchical Clustering** | 
-|:----------------------:|:---------------------------:|
-| <img src="https://github.com/user-attachments/assets/80a68c4e-3cbb-4232-94a5-7cfb69f506db" width="300"/> | <img width="300" alt="hierarchical_dendrogram" src="https://github.com/user-attachments/assets/402f5694-455e-48b9-aa2e-a22fd84dbaf2" />
-
+| **K-Means Clustering** | 
+|:----------------------:|
+| <img src="https://github.com/user-attachments/assets/80a68c4e-3cbb-4232-94a5-7cfb69f506db" width="300"/> |
 
 ---
 
