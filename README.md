@@ -62,7 +62,7 @@ Segment customers of a mall based on their **spending behavior and income** to h
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/<SHALINSAURAV>/mall-customer-segmentation.git
+git clone https://github.com/<SHALINISAURAV>/mall-customer-segmentation.git
 cd mall-customer-segmentation
 pip install -r requirements.txt
 jupyter notebook notebooks/Mall_Customer_Segmentation.ipynb
