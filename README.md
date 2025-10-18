@@ -81,8 +81,8 @@ Build a dashboard (Streamlit / PowerBI)
 Try Gaussian Mixture Models (GMM)
 
 ✨ Author
+👩‍💻 Shalini Saurav
 
-👩‍💻 Shalini Saurav 
 📧 Email
- • 🌐 LinkedIn
- • 🐙 GitHub
+🌐 LinkedIn
+🐙 GitHub
