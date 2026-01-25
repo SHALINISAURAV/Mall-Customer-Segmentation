@@ -53,6 +53,7 @@ Segment customers of a mall based on their **spending behavior and income** to h
 ---
 
 ## 🪄 Results & Insights
+
 - Identified **3 main customer segments**:
   - 🎯 **High Income, High Spend** → Premium Target  
   - 💸 **Medium Income, Medium Spend** → Potential Growth Group  
@@ -67,7 +68,7 @@ cd mall-customer-segmentation
 pip install -r requirements.txt
 jupyter notebook notebooks/Mall_Customer_Segmentation.ipynb
 
-🧩 Requirements
+🧩 Requirements 
 pandas
 numpy
 matplotlib
